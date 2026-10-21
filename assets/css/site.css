@@ -2,14 +2,14 @@
 :root {
   --bg: #ffffff;
   --text: #111111;
-  --muted: #333333;
-  --surface: #eef5e4;
-  --surface-2: #ddeec8;
-  --primary: #6fa839;
-  --primary-dark: #5a8f2e;
-  --primary-line: #b8d48a;
-  --accent-glow: #8bc34a;
-  --link: #2d6a1e;
+  --muted: #2a2a2a;
+  --surface: #e6f3ed;
+  --surface-2: #cce8dc;
+  --primary: #156b52;
+  --primary-dark: #0e5240;
+  --primary-line: #5cb896;
+  --accent-glow: #2ecc87;
+  --link: #0d6b4f;
   --max: 68rem;
   --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   --font-body: "Avenir Next", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
@@ -31,8 +31,7 @@ body {
   font-family: var(--font-body);
   color: var(--text);
   background:
-    radial-gradient(110% 70% at 100% 0%, rgba(143, 195, 74, 0.12) 0%, transparent 50%),
-    radial-gradient(90% 55% at 0% 100%, rgba(111, 168, 57, 0.1) 0%, transparent 45%),
+    radial-gradient(85% 55% at 100% 0%, rgba(46, 204, 135, 0.14) 0%, transparent 58%),
     var(--bg);
   line-height: 1.55;
 }
