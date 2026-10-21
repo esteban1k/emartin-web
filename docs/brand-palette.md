@@ -6,11 +6,11 @@ Inspiración: **Guía de Marca — Almacén Gourmet** (`Guia de Marca.pdf` en Go
 | --- | --- | --- |
 | `--bg` | `#ffffff` | Fondo |
 | `--text` | `#111111` | Texto principal |
-| `--primary` | `#6fa839` | Acento verde pasto |
-| `--primary-dark` | `#5a8f2e` | Hover / énfasis |
-| `--accent-glow` | `#8bc34a` | Brillo suave en hero |
-| `--surface` | `#eef5e4` | Paneles |
-| `--surface-2` | `#ddeec8` | Gradientes |
-| `--primary-line` | `#b8d48a` | Bordes |
+| `--primary` | `#156b52` | Oliva intenso (base) |
+| `--primary-dark` | `#0e5240` | Hover / énfasis |
+| `--accent-glow` | `#2ecc87` | Brillo (cerca WhatsApp, más oliva) |
+| `--surface` | `#e6f3ed` | Paneles |
+| `--surface-2` | `#cce8dc` | Gradientes suaves |
+| `--primary-line` | `#5cb896` | Bordes |
 
 Cuando tengas los hex exactos del PDF, reemplazá en `assets/css/site.css` y actualizá esta tabla.
