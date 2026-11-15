@@ -2,6 +2,8 @@
 
 Sitio estático personal (GitHub Pages cuando publiques). **Repo privado** — WIP.
 
+<!-- Dominio previsto en producción: emartin.com.ar (CNAME en repo; sin deploy Pages hasta que Esteban lo pida). -->
+
 ## Ejes
 
 | Ruta | Tema |
