@@ -26,6 +26,8 @@ Abre http://127.0.0.1:8765
 
 En PR: **CI** (`static_check` + `CNAME`). En push a ramas de trabajo con PR abierto: **Police Preflight** y **Police Docs** (perfil web, como `proyecto-orden-web`).
 
+Si ves el check rojo **Workers Builds: emartin-web**, no viene de este repo: es la [GitHub App de Cloudflare](https://github.com/apps/cloudflare-workers-and-pages) con un Worker inexistente. Pasos para quitarlo: [`docs/deployment.md`](docs/deployment.md).
+
 ## GitHub Pages (futuro)
 
 Mismo patrón que `proyecto-orden-web`: rama `main`, `.nojekyll`, carpeta raíz o `docs/` según settings.
